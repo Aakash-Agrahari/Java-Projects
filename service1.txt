@@ -1,0 +1,11 @@
+Here are the buses and services provided by us during your travelling. All services provided in our every buses are almost same and up to the mark. You will be travelling with ease. See below for our various services.
+
+     Bus1: It is a deluxe bus. It is destined to travel from Parasi to Kathmandu. It travels in morning time at 6.30 am from Parasi. You can find here services like Semi seater, AC, Water, Heater, Free Wifi, TV, etc.
+
+     Bus2: It is a deluxe bus. It is destined to travel from Sunwal to Kathmandu. It travels in evening time at 8 pm from Sunwal. You can find here services like Semi seater, AC, Water, Heater, Free Wifi, TV, etc.
+
+     Bus3: It is deluxe bus. It is destined to travel from Sunwal to Pokhara. It travels in evening time at 9 pm from Sunwal. You can find here service like Semi seater, AC, Water, Heater, Free Wifi, TV, etc.
+
+     Bus4: It is a deluxe bus. It is destined to travel from Parasi to Janakpur. It travels in evening time at 7pm from Parasi. You can find here services like Semi seater, AC, Water, Heater, Free Wifi, TV, etc.
+
+     Bus5: It is a deluxe bus. It is destined from Sunwal to Illam. It travels in evening time at 6pm from Sunwal. You can find here services like Semi seater, AC, Water, Heater, Free Wifi, TV,etc.
